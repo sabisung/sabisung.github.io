@@ -1,11 +1,11 @@
 ios:
-  name: ios
+  name: iOS
 
 trekking:
-  name: trekking
+  name: 트레킹
 
 game:
-  name: game
+  name: 게임
 
 etc:
-  name: etc
+  name: 기타
