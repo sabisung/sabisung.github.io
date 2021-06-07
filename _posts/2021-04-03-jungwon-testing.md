@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "정원 테스트"
-tags: iOS tag2 tag4
+tags: iOS 트레킹(Trekking) 기타
 ---
 
 ## Lorem Ipsum
