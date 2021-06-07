@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Lorem Ipsum"
-tags: trekking etc
+tags: 트레킹 기타
 ---
 
 ## Lorem Ipsum
