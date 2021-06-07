@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "정원 테스트"
-tags: ios tag2 tag4
+tags: iOS tag2 tag4
 ---
 
 ## Lorem Ipsum
