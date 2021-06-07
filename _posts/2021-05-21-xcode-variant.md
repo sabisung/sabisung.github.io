@@ -137,7 +137,8 @@ Xcode의 Product - Scheme - Manage Schemes... 선택한다.<br>
 ## 7. 테스트 코드
 ViewController.swift의 viewDidLoad 함수 내용이다.<br>
 설정한 대로 정상적으로 값이 출력되는가?<br>
-<pre><code class="swift">override func viewDidLoad() {
+```swift
+override func viewDidLoad() {
     super.viewDidLoad()
     // Do any additional setup after loading the view.
     
@@ -147,7 +148,7 @@ ViewController.swift의 viewDidLoad 함수 내용이다.<br>
     guard let apiKey: String = Bundle.main.infoDictionary?["API_KEY"] as? String else { return }
     print(" apiKey: \(apiKey)")
 }
-</code></pre>
+```
 ![이미지 #17](/images/2021-05-21-xcode-variant/xcode-17.png)<br>
 보이는 시뮬레이터와 같이 동일한 앱이 3개가 설치되어 있다. 개발/스테이징/배포<br><br>
 <a class="github-button" href="https://github.com/sabisung/sabisung.github.io/raw/master/download/MyApp.zip" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Sample Source Download (MyApp.zip)</a>
