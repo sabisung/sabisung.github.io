@@ -130,8 +130,8 @@ ul.topbar {
 .tag_list {
 	width: 28%;
 	margin: 0 auto;
-	min-height: 300px;
-	max-height: 300px;
+	min-height: 250px;
+	max-height: 250px;
 	overflow-y: scroll;
 	display: inline-block;
 
@@ -189,7 +189,8 @@ ul.topbar {
 .post_content {
 	position: relative;
 	width: 98.5%;
-	height: 550px;
+	min-height: 600px;
+	max-height: 600px;
 	padding: 2px;
 	margin: 4px;
 	overflow-y: scroll;
