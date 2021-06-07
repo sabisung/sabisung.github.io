@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "My Testing"
-tags: iOS 트레킹(Trekking) 기타
+tags: ios trekking game
 ---
 
 ## Lorem Ipsum
