@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Your Testing"
-tags: iOS tag2 tag4
+tags: iOS 트레킹(Trekking) 기타
 ---
 
 ## Lorem Ipsum
