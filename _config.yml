@@ -23,7 +23,3 @@ kramdown:
   input: GFM
   syntax_highlighter_opts:
     disable : true
-
-# Paging
-paginate: 5
-paginate_path: "/:num/"
