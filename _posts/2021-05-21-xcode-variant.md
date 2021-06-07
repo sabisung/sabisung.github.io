@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Xcode의 실행환경에 따른 앱 빌드"
+title: "실행환경에 따른 앱 빌드"
 tags: iOS
 ---
 
