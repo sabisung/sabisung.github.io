@@ -1,11 +1,11 @@
 ios:
   name: iOS
 
-tag2:
-  name: tag2
+trekking:
+  name: 트레킹(Trekking)
 
-tag3:
-  name: tag3
+game:
+  name: 게임(Game)
 
-tag4:
-  name: tag4
+etc:
+  name: 기타
