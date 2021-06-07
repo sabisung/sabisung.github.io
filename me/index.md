@@ -3,7 +3,7 @@ layout: me
 title: me
 ---
 
-![프로필 사진](/images/profile_pic.png)<br>
+![프로필 사진](/images/profile_pic.png){: width='50%'}<br>
 
 ## Don't worry if it does
 
