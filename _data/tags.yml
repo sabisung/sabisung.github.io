@@ -1,8 +1,8 @@
-ios:
-  name: iOS
+iOS:
+  name: ios
 
-trekking:
-  name: 트레킹
+트레킹:
+  name: trekking
 
 game:
   name: 게임
