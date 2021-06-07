@@ -97,8 +97,8 @@ ul.topbar {
 .post_list {
 	width: 70.2%;
 	margin: 0 auto;
-	min-height: 300px;
-	max-height: 300px;
+	min-height: 150px;
+	max-height: 150px;
 	overflow-y: scroll;
 	display: inline-block;
 
@@ -130,8 +130,8 @@ ul.topbar {
 .tag_list {
 	width: 28%;
 	margin: 0 auto;
-	min-height: 250px;
-	max-height: 250px;
+	min-height: 150px;
+	max-height: 150px;
 	overflow-y: scroll;
 	display: inline-block;
 
@@ -192,12 +192,11 @@ ul.topbar {
 	min-height: 600px;
 	max-height: 600px;
 	padding: 2px;
-	margin: 4px;
+	margin: 0 auto;
 	overflow-y: scroll;
 	overflow-x: scroll;
 
 	p {
-		font-size:14px;
 		line-height: 150%;
 		margin-bottom: 15px;
 	}
@@ -241,7 +240,7 @@ ul.topbar {
 	ul {
 		list-style: square;
 		margin: 0 0 15px 30px;
-		font-size: 14px;
+
 		li {
 			padding: 5px;
 
@@ -258,7 +257,7 @@ ul.topbar {
 	ol {
 		list-style: decimal-leading-zero;
 		margin: 0 0 15px 30px;
-		font-size: 14px;
+
 		li {
 			padding: 5px;
 
@@ -273,7 +272,6 @@ ul.topbar {
 	}
 
 	table, th, td {
-		font-size: 14px;
 		border: 1px solid #222222;
 		padding: 2px;
 	}
