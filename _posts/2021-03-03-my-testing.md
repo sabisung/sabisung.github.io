@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "My Testing"
-tags: ios tag2 tag4
+tags: iOS tag2 tag4
 ---
 
 ## Lorem Ipsum
