@@ -34,7 +34,7 @@
 				<li><a href="/" ><img src="/assets/img/disk.png" />(C:\SABISUNG)</a>
 			<ul>
 				{% assign tags = site.tags %}
-				{% for tag in tags %}
+				{% for tag in tags | sort %}
 				<li><a href="/tag/{{ tag | first | slugify }}/" title="{{ tag[0] | replace:'-', ' ' }}"><img src="/assets/img/folder.ico" />{{ tag[0] | replace:'-', ' ' }}</a></li>
 				{% endfor %}
 			</ul>
