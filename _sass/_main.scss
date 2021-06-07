@@ -1,5 +1,6 @@
 body {
 	background: #008082;
+	background-image: url(/assets/img/back.png);
 	font-family: sans-serif, serif, monospace;
 	font-size: 13px;
 }
@@ -189,14 +190,14 @@ ul.topbar {
 .post_content {
 	position: relative;
 	width: 98.5%;
-	min-height: 600px;
-	max-height: 600px;
+	height: 550px;
 	padding: 2px;
-	margin: 0 auto;
+	margin: 4px;
 	overflow-y: scroll;
 	overflow-x: scroll;
 
 	p {
+		font-size:14px;
 		line-height: 150%;
 		margin-bottom: 15px;
 	}
@@ -240,7 +241,7 @@ ul.topbar {
 	ul {
 		list-style: square;
 		margin: 0 0 15px 30px;
-
+		font-size: 14px;
 		li {
 			padding: 5px;
 
@@ -257,7 +258,7 @@ ul.topbar {
 	ol {
 		list-style: decimal-leading-zero;
 		margin: 0 0 15px 30px;
-
+		font-size: 14px;
 		li {
 			padding: 5px;
 
@@ -272,6 +273,7 @@ ul.topbar {
 	}
 
 	table, th, td {
+		font-size: 14px;
 		border: 1px solid #222222;
 		padding: 2px;
 	}
