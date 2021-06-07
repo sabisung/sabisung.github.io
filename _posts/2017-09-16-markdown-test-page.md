@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Markdown Test Page"
-tags: tag1
+tags: 태그1
 ---
 
 ## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
