@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Markdown Test Page"
-tags: tag3
+tags: 게임(Game)
 ---
 
 ## Source: [Markdown Test Page](https://github.com/fullpipe/markdown-test-page)
