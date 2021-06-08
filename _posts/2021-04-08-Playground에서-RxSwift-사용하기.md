@@ -54,5 +54,5 @@ Blank Playgroud를 선택 후 Next 버튼 클릭<br/>
 마지막으로!!! 이젠 생성된 Playgroud에서 RxSwift를 사용할 수 있다. :-)<br/>
 프로젝트 네비게이터 상단에 보면 생성된 Playground 항목을 볼 수 있다.<br/>
 <br/>
-## 참고문서
-https://medium.com/@_achou/making-a-playground-using-rxswift-81d8377bd239
+## 참고
+<a href="https://medium.com/@_achou/making-a-playground-using-rxswift-81d8377bd239">https://medium.com/@_achou/making-a-playground-using-rxswift-81d8377bd239</a>
