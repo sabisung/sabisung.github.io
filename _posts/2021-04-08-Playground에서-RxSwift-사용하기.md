@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Playground에서 RxSwift 사용하기"
-tags: iOS Swift
+tags: iOS Swift RxSwift
 ---
 
 Xcode를 사용하여 일반적인 방법으로 프로젝트를 생성하고, Pod에 RxSwift를 추가하면 앱을 실행하여 디바이스나 시뮬레이터 결과를 확인할 수가 있다. 
