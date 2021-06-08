@@ -1,5 +1,12 @@
+html { 
+  background: url(/images/windows95-desktop.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
 body {
-	background: #008082;
 	font-family: sans-serif, serif, monospace;
 	font-size: 13px;
 }
