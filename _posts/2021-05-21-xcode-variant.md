@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "실행환경에 따른 앱 빌드"
-tags: iOS
+tags: iOS Swift
 ---
 
 앱을 개발하다 보면 각각의 실행환경(개발, 스테이징(테스트), 배포)에서 참고하는 값이 다를 수 있다.
