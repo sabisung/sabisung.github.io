@@ -23,12 +23,12 @@
 <body>
 
 	<div class="wrapper">
-		<div class="default_title">
+		<div class="default_title site_name">
 			<img src="/assets/img/mycomputer.png" />
 			{% if page.tag %}
 				<h1>{{ page.tag }}</h1>
 			{% else %}
-				<h1><a href="/" class="site_name">{{ site.name }}</a></h1>
+				<h1><a href="/">{{ site.name }}</a></h1>
 			{% endif %}
 		</div>
 		{% include topbar.html %}
