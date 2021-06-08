@@ -4,6 +4,8 @@ title: "URL Query String Parsing"
 tags: JavaScript
 ---
 
+URL의 Query String을 파싱하여 JSON으로 반환하는 함수입니다.
+
 <pre><code class="javascript">const queryStringToJSON = (url) => {
     let pairs = [];
     if(url.search.slice !== undefined) {
