@@ -22,7 +22,7 @@ App 선택 후 Next 클릭 (Xcode 버전에 따라서 화면이 상이할 수 �
 프로젝트가 생성되었다면 아무런 작업도 하지 말고, 묻지도 따지지도 말고 Xcode를 종료한다. :-)<br/>
 <br/>
 그런다음 터미널을 실행하여 프로젝트가 생성된 폴더로 이동한다.<br/>
-<mark style='background-color: #24292e'><font color="#b80000">주) 먼저 CocoaPods가 설치가 되어야 한다.</font></mark><br/>
+<mark style='background-color: #24292e'><font color="white">주) 먼저 CocoaPods가 설치가 되어야 한다.</font></mark><br/>
 <br/>
 ![터미널](/images/2021-04-08-Playground에서-RxSwift-사용하기/rxswift-05.png)<br>
 터미널을 실행한 후 프로젝트 폴더로 이동한다. 그런다음 pod init 명령어를 입력하게 되면 아무런 메시지도 나오지 않는다. ls 명령어로 폴더의 파일 목록을 보면 Podfile이라는 파일이 생성되어 있다. 이 Podfile을 vi로 오픈한다.<br/>
@@ -39,7 +39,7 @@ Podfile을 오픈하여 위 이미지와 같이 # Pods for RxSwiftStudy 라인 �
 ![Xcode](/images/2021-04-08-Playground에서-RxSwift-사용하기/rxswift-07.png)<br>
 Xcode에서 프로젝트가 오픈된 상태다. 큰 빨간색 사각형의 프로젝트 네비게이션 부분은 절대로 클릭하면 안된다. 이미 클릭하여 폴더나 파일이 선택되었다면 ⌘+Click으로 선택된 항목을 반드시 선택해제 해야 한다. 그래도 불안하면 Xcode를 종료후 다시 오픈한다. (RxSwiftStudy.xcworkspace 이용) 왼쪽 하단의 + 버튼을 클릭한다.<br/>
 <br/>
-<mark style='background-color: #24292e'><font color="#b80000">빨간색 큰 사각형의 프로젝트 네비게이터 부분의 항목을 절대로 클릭하면 안된다!!!</font></mark><br/>
+<mark style='background-color: #24292e'><font color="white">빨간색 큰 사각형의 프로젝트 네비게이터 부분의 항목을 절대로 클릭하면 안된다!!!</font></mark><br/>
 <br/>
 ![Xcode](/images/2021-04-08-Playground에서-RxSwift-사용하기/rxswift-08.png)<br>
 New File...을 클릭한다.<br/>
