@@ -11,6 +11,24 @@ body {
 	font-size: 13px;
 }
 
+.site-name {
+	a {
+		color: #ffffff
+	}
+	a:link {
+	  text-decoration: none;
+	}
+	a:visited {
+	  text-decoration: none;
+	}
+	a:hover {
+	  text-decoration: none;
+	}
+	a:active {
+	  text-decoration: none;
+	}
+}
+
 .wrapper, .content {
 	width: 800px;
 	margin: auto;
