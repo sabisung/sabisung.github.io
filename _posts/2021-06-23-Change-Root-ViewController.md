@@ -106,8 +106,8 @@ class ViewController: UIViewController {
 </code></pre>
 
 ## 스크린 샷
-![InitViewController](/images/2021-06-23-Change-Root-ViewController/ChangeRootVC-01.png)<br/>
-![ViewController](/images/2021-06-23-Change-Root-ViewController/ChangeRootVC-02.png)<br/>
+![InitViewController](/images/2021-06-23-Change-Root-ViewController/ChangeRootVC-01.png){: width="100%"}<br/>
+![ViewController](/images/2021-06-23-Change-Root-ViewController/ChangeRootVC-02.png){: width="100%"}<br/>
 
 ## 샘플 소스 다운로드
 <a class="github-button" href="https://github.com/sabisung/sabisung.github.io/raw/master/download/ChangeRootVC.zip" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-icon="octicon-download" data-size="large" aria-label="Download ntkme/github-buttons on GitHub">Sample Source Download (ChangeRootVC.zip)</a>
