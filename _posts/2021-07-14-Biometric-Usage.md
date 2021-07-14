@@ -19,8 +19,8 @@ iPhone에서 사용이 가능한 생체 정보는 지문과 안면 인식 두 �
 
 ## Xcode 설정
 Info.plist 파일에 아래 내용을 추가해야 한다.<br/>
-<pre><code class="swift"><key>NSFaceIDUsageDescription</key>
-	<string>안면인식 로그인을 위해 필요합니다.</string>
+<pre><code class="swift">&lt;key&gt;NSFaceIDUsageDescription&lt;/key&gt;
+&lt;string&gt;안면인식 로그인을 위해 필요합니다.&lt;/string&gt;
 </code></pre>
 
 ## BiometricAuth.swift
